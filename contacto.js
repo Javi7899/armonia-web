@@ -7,7 +7,7 @@
 // seguridad —quien quiera leerla la lee— pero sí basta para que los rastreos
 // automáticos, que no ejecutan JavaScript, pasen de largo.
 document.addEventListener('DOMContentLoaded', function () {
-  var correo = atob('amF2aWVydG9ycnUzQGdtYWlsLmNvbQ==');
+  var correo = atob('YmVhdHNsZWVwZkBnbWFpbC5jb20=');
   document.querySelectorAll('[data-correo]').forEach(function (hueco) {
     var enlace = document.createElement('a');
     enlace.href = 'mailto:' + correo;
