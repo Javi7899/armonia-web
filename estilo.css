@@ -1,0 +1,42 @@
+:root {
+  --canvas: #FAF7F2; --surface: #FFFFFF; --ink: #1A1917; --subtle: #6B6660;
+  --hairline: #E3DDD3; --brand: #0E6A55; --deep: #084335;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --canvas: #11100F; --surface: #1C1B19; --ink: #F2EFE9; --subtle: #A39C93;
+    --hairline: #2E2C29; --brand: #3FD3A8; --deep: #1E8A6E;
+  }
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0; background: var(--canvas); color: var(--ink);
+  font: 17px/1.6 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+/* Nada de backdrop-filter en una cabecera fija: crea un contexto de composición
+   que oscurece toda la página que queda por debajo. */
+header {
+  background: var(--deep); color: #fff; padding: 56px 20px 44px; text-align: center;
+}
+header h1 { margin: 0 0 8px; font-size: clamp(30px, 7vw, 44px); letter-spacing: -0.02em; }
+header p { margin: 0; opacity: 0.8; font-size: 17px; }
+nav { display: flex; gap: 18px; justify-content: center; margin-top: 22px; flex-wrap: wrap; }
+nav a { color: #fff; opacity: 0.85; text-decoration: none; border-bottom: 1px solid rgba(255,255,255,.35); padding-bottom: 2px; }
+nav a:hover { opacity: 1; }
+main { max-width: 720px; margin: 0 auto; padding: 44px 20px 80px; }
+h2 { font-size: 24px; margin: 44px 0 12px; letter-spacing: -0.01em; }
+h2:first-child { margin-top: 0; }
+h3 { font-size: 18px; margin: 28px 0 6px; }
+p, li { color: var(--ink); }
+.subtle { color: var(--subtle); }
+ul { padding-left: 22px; }
+li { margin-bottom: 8px; }
+.card {
+  background: var(--surface); border: 1px solid var(--hairline);
+  border-radius: 16px; padding: 20px 22px; margin: 20px 0;
+}
+a { color: var(--brand); }
+footer { border-top: 1px solid var(--hairline); margin-top: 56px; padding-top: 22px; color: var(--subtle); font-size: 14px; }
+code { background: var(--hairline); padding: 2px 6px; border-radius: 5px; font-size: 14px; }
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; animation: none !important; } }
