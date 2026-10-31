@@ -5,7 +5,11 @@
     <loc>https://javi7899.github.io/armonia-web/</loc>
     <xhtml:link rel="alternate" hreflang="es" href="https://javi7899.github.io/armonia-web/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://javi7899.github.io/armonia-web/en/"/>
-    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="de" href="https://javi7899.github.io/armonia-web/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://javi7899.github.io/armonia-web/fr/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://javi7899.github.io/armonia-web/it/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://javi7899.github.io/armonia-web/pt/"/>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -13,7 +17,59 @@
     <loc>https://javi7899.github.io/armonia-web/en/</loc>
     <xhtml:link rel="alternate" hreflang="es" href="https://javi7899.github.io/armonia-web/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://javi7899.github.io/armonia-web/en/"/>
-    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="de" href="https://javi7899.github.io/armonia-web/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://javi7899.github.io/armonia-web/fr/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://javi7899.github.io/armonia-web/it/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://javi7899.github.io/armonia-web/pt/"/>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://javi7899.github.io/armonia-web/de/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://javi7899.github.io/armonia-web/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://javi7899.github.io/armonia-web/en/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://javi7899.github.io/armonia-web/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://javi7899.github.io/armonia-web/fr/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://javi7899.github.io/armonia-web/it/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://javi7899.github.io/armonia-web/pt/"/>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://javi7899.github.io/armonia-web/fr/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://javi7899.github.io/armonia-web/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://javi7899.github.io/armonia-web/en/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://javi7899.github.io/armonia-web/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://javi7899.github.io/armonia-web/fr/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://javi7899.github.io/armonia-web/it/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://javi7899.github.io/armonia-web/pt/"/>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://javi7899.github.io/armonia-web/it/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://javi7899.github.io/armonia-web/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://javi7899.github.io/armonia-web/en/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://javi7899.github.io/armonia-web/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://javi7899.github.io/armonia-web/fr/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://javi7899.github.io/armonia-web/it/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://javi7899.github.io/armonia-web/pt/"/>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://javi7899.github.io/armonia-web/pt/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://javi7899.github.io/armonia-web/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://javi7899.github.io/armonia-web/en/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://javi7899.github.io/armonia-web/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://javi7899.github.io/armonia-web/fr/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://javi7899.github.io/armonia-web/it/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://javi7899.github.io/armonia-web/pt/"/>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -21,7 +77,11 @@
     <loc>https://javi7899.github.io/armonia-web/privacidad.html</loc>
     <xhtml:link rel="alternate" hreflang="es" href="https://javi7899.github.io/armonia-web/privacidad.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://javi7899.github.io/armonia-web/en/privacy.html"/>
-    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="de" href="https://javi7899.github.io/armonia-web/de/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://javi7899.github.io/armonia-web/fr/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://javi7899.github.io/armonia-web/it/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://javi7899.github.io/armonia-web/pt/privacy.html"/>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
@@ -29,7 +89,59 @@
     <loc>https://javi7899.github.io/armonia-web/en/privacy.html</loc>
     <xhtml:link rel="alternate" hreflang="es" href="https://javi7899.github.io/armonia-web/privacidad.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://javi7899.github.io/armonia-web/en/privacy.html"/>
-    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="de" href="https://javi7899.github.io/armonia-web/de/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://javi7899.github.io/armonia-web/fr/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://javi7899.github.io/armonia-web/it/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://javi7899.github.io/armonia-web/pt/privacy.html"/>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://javi7899.github.io/armonia-web/de/privacy.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://javi7899.github.io/armonia-web/privacidad.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://javi7899.github.io/armonia-web/en/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://javi7899.github.io/armonia-web/de/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://javi7899.github.io/armonia-web/fr/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://javi7899.github.io/armonia-web/it/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://javi7899.github.io/armonia-web/pt/privacy.html"/>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://javi7899.github.io/armonia-web/fr/privacy.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://javi7899.github.io/armonia-web/privacidad.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://javi7899.github.io/armonia-web/en/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://javi7899.github.io/armonia-web/de/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://javi7899.github.io/armonia-web/fr/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://javi7899.github.io/armonia-web/it/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://javi7899.github.io/armonia-web/pt/privacy.html"/>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://javi7899.github.io/armonia-web/it/privacy.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://javi7899.github.io/armonia-web/privacidad.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://javi7899.github.io/armonia-web/en/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://javi7899.github.io/armonia-web/de/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://javi7899.github.io/armonia-web/fr/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://javi7899.github.io/armonia-web/it/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://javi7899.github.io/armonia-web/pt/privacy.html"/>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://javi7899.github.io/armonia-web/pt/privacy.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://javi7899.github.io/armonia-web/privacidad.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://javi7899.github.io/armonia-web/en/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://javi7899.github.io/armonia-web/de/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://javi7899.github.io/armonia-web/fr/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://javi7899.github.io/armonia-web/it/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://javi7899.github.io/armonia-web/pt/privacy.html"/>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
